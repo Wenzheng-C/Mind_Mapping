@@ -1,0 +1,462 @@
+{
+    "root": {
+        "data": {
+            "id": "c9roaydzhvk0",
+            "created": 1615176556033,
+            "text": "WebDesign"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c9roaydzhvk0",
+                    "created": 1615176556033,
+                    "text": "BeautifulDesign",
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c9robicmngw0",
+                            "created": 1615176599487,
+                            "text": "Use a font-size between 15 and 25px"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9robxvik4o0",
+                            "created": 1615176633280,
+                            "text": "Use big font size for headlines"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rocqy5y9k0",
+                            "created": 1615176696567,
+                            "text": "Use line spacing between 120 and 150%"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9roev2uonk0",
+                            "created": 1615176862287,
+                            "text": "45 to 90 characters per line"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rofuarl480",
+                            "created": 1615176938952,
+                            "text": "use good fonts"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9rpf88cne00",
+                                    "created": 1615179712027,
+                                    "text": "chose a font which reflects the look and fell you want for your website"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rpfmyzrig0",
+                                    "created": 1615179744113,
+                                    "text": "decide:sans-serif or serif typeface"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rpfvryq3s0",
+                                    "created": 1615179763279,
+                                    "text": "use a good font"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rpfzblhsw0",
+                                    "created": 1615179770996,
+                                    "text": "use only that one typeface"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c9rpimypdzs0",
+                    "created": 1615179979188,
+                    "text": "Color",
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c9rpjdfz2ao0",
+                            "created": 1615180036828,
+                            "text": "Use only one base color"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rpkk5dfcw0",
+                            "created": 1615180129789,
+                            "text": "Use a tool if you want to use more colors"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rplhyd5js0",
+                            "created": 1615180203376,
+                            "text": "Use color to draw attention"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rplna04i00",
+                            "created": 1615180214963,
+                            "text": "never use black in your design"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rplufi5s80",
+                            "created": 1615180230533,
+                            "text": "choose colors wisely"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9rprhjqufk0",
+                                    "created": 1615180672678,
+                                    "text": "red",
+                                    "priority": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9rprqtudlk0",
+                                            "created": 1615180692878,
+                                            "text": "power, passion, strength and excitement "
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rps27ovew0",
+                                    "created": 1615180717660,
+                                    "text": "orange"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9rps9vx94g0",
+                                            "created": 1615180734363,
+                                            "text": "cheerfulness and creativity ,riendliness, confidence, and courage"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rpshss37s0",
+                                    "created": 1615180751587,
+                                    "text": "yellow"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9rpt1ckw940",
+                                            "created": 1615180794143,
+                                            "text": "energetic and gives the feeling of happiness and liveliness.curiosity, intelligence, brightness"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rpsjroys00",
+                                    "created": 1615180755875,
+                                    "text": "green"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9rptbt6qe80",
+                                            "created": 1615180816915,
+                                            "text": "harmony, nature, life and health. money. In design, green can have a balancing and harmonizing effect."
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rpslphw000",
+                                    "created": 1615180760096,
+                                    "text": "blue"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9rptm7n1ag0",
+                                            "created": 1615180839557,
+                                            "text": "patience, peace, trustworthiness, and stability. It is one of the most beloved colors, especially by men. professionalism, trust and honor."
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rpso24d9s0",
+                                    "created": 1615180765214,
+                                    "text": "purple"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9rptwv6reg0",
+                                            "created": 1615180862749,
+                                            "text": "power, nobility and wealth. In your design, wisdom, royalty, nobility, luxury, and mystery."
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rpsq7n8s80",
+                                    "created": 1615180769900,
+                                    "text": "pink"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9rpu327dew0",
+                                            "created": 1615180876234,
+                                            "text": "romance, passivity, care, peace, affection"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rpsro7ku00",
+                                    "created": 1615180773079,
+                                    "text": "brown"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9rpu9w6mns0",
+                                            "created": 1615180891107,
+                                            "text": "relaxation and confidence. earthiness, nature, durability, comfort, and reliability"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c9rpul7opb40",
+                    "created": 1615180915747,
+                    "text": "Images",
+                    "layout_mind_offset": {
+                        "x": -2.499999962747154,
+                        "y": -1.2499999813735485
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c9rpv2n7js00",
+                            "created": 1615180953691,
+                            "text": "Put text directly on the image"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rpvz0tai80",
+                            "created": 1615181024171,
+                            "text": "Overlay the image"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rpxntpnjs0",
+                            "created": 1615181156525,
+                            "text": "Put your text in a box"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rpyatjox40",
+                            "created": 1615181206581,
+                            "text": "Blur the image"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rpz8jg5rk0",
+                            "created": 1615181279981,
+                            "text": "The floor fade"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c9rq29lv46w0",
+                    "created": 1615181517396,
+                    "text": "Icons"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c9rq2wn8lzk0",
+                            "created": 1615181567545,
+                            "text": "Use icons to list feature/steps"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rq3j0qm4o0",
+                            "created": 1615181616251,
+                            "text": "Use icons for action and links"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rq51f2arc0",
+                            "created": 1615181734663,
+                            "text": "Icons should not take a center stage"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9rq5gt3ods0",
+                            "created": 1615181768164,
+                            "text": "Use icons fonts whenever possible"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c9rqak7o2aw0",
+                    "created": 1615182167396,
+                    "text": "Spacing and layout"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c9rqap8hhqg0",
+                            "created": 1615182178329,
+                            "text": "Use whitespace"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9rqb4qpdeo0",
+                                    "created": 1615182212083,
+                                    "text": "between elements"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rqb8kxo0w0",
+                                    "created": 1615182220441,
+                                    "text": "between group of elements"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rqbdlgujs0",
+                                    "created": 1615182231357,
+                                    "text": "between website's section"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rqbih68ls0",
+                                    "created": 1615182241981,
+                                    "text": "don't exaggerate"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c9rqau52hko0",
+                            "created": 1615182189007,
+                            "text": "Define hierarchy"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9rqdalhpy80",
+                                    "created": 1615182381556,
+                                    "text": "define where your want your audience to look first"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rqdixtg6o0",
+                                    "created": 1615182399716,
+                                    "text": "establish a flow that corresponds to your content's message"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9rqdvh501k0",
+                                    "created": 1615182427006,
+                                    "text": "use white to build that flow"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "classic",
+    "version": "1.4.43"
+}
