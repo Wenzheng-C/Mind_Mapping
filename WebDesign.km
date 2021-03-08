@@ -375,7 +375,11 @@
                 "data": {
                     "id": "c9rqak7o2aw0",
                     "created": 1615182167396,
-                    "text": "Spacing and layout"
+                    "text": "Spacing and layout",
+                    "layout_mind_offset": {
+                        "x": 114.99999828636646,
+                        "y": 6.249999906867856
+                    }
                 },
                 "children": [
                     {
@@ -389,7 +393,7 @@
                                 "data": {
                                     "id": "c9rqb4qpdeo0",
                                     "created": 1615182212083,
-                                    "text": "between elements"
+                                    "text": "Between elements"
                                 },
                                 "children": []
                             },
@@ -397,7 +401,7 @@
                                 "data": {
                                     "id": "c9rqb8kxo0w0",
                                     "created": 1615182220441,
-                                    "text": "between group of elements"
+                                    "text": "Between group of elements"
                                 },
                                 "children": []
                             },
@@ -405,7 +409,7 @@
                                 "data": {
                                     "id": "c9rqbdlgujs0",
                                     "created": 1615182231357,
-                                    "text": "between website's section"
+                                    "text": "Between website's section"
                                 },
                                 "children": []
                             },
@@ -413,7 +417,7 @@
                                 "data": {
                                     "id": "c9rqbih68ls0",
                                     "created": 1615182241981,
-                                    "text": "don't exaggerate"
+                                    "text": "Don't exaggerate"
                                 },
                                 "children": []
                             }
@@ -423,14 +427,18 @@
                         "data": {
                             "id": "c9rqau52hko0",
                             "created": 1615182189007,
-                            "text": "Define hierarchy"
+                            "text": "Define hierarchy",
+                            "layout_left_offset": {
+                                "x": -48.74999927356845,
+                                "y": 17.49999973922968
+                            }
                         },
                         "children": [
                             {
                                 "data": {
                                     "id": "c9rqdalhpy80",
                                     "created": 1615182381556,
-                                    "text": "define where your want your audience to look first"
+                                    "text": "Define where your want your audience to look first"
                                 },
                                 "children": []
                             },
@@ -438,7 +446,7 @@
                                 "data": {
                                     "id": "c9rqdixtg6o0",
                                     "created": 1615182399716,
-                                    "text": "establish a flow that corresponds to your content's message"
+                                    "text": "Establish a flow that corresponds to your content's message"
                                 },
                                 "children": []
                             },
@@ -446,7 +454,7 @@
                                 "data": {
                                     "id": "c9rqdvh501k0",
                                     "created": 1615182427006,
-                                    "text": "use white to build that flow"
+                                    "text": "Use white to build that flow"
                                 },
                                 "children": []
                             }
